@@ -1,0 +1,55 @@
+:root{
+    --color-primario: #210049;
+    --color-secundario: #00DDA3;
+    --color-secundario-transparent: #ccf8ed;
+    --color-ternario: #FFFFFF;
+    --color-cuarto: #B5C5C3;
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-BoldItalic.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-HeavyItalic.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-LightItalic.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-MediumItalic.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-RegularItalic.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
+}
+@font-face {
+    font-family: "DotGothic16", sans-serif;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-SemiboldItalic.otf);
+}
